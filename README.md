@@ -51,7 +51,7 @@ Pengguna dapat memilih Hapus untuk menghapus tugas, atau Batal jika tidak ingin 
 
 | Keterangan | Link |
 |-----------|------|
-| 🎬 Link UI/UX (YouTube) | [Klik untuk melihat UI/UX](https://youtube.com/...) |
+| 🎬 Link UI/UX (YouTube) | [Klik untuk melihat UI/UX](https://youtu.be/iZQuWdYC9eY) |
 | ✅ Link ClickUp | [Klik untuk membuka ClickUp](https://app.clickup.com/...) |
 
 
